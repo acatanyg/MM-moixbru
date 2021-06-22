@@ -69,7 +69,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Antonio Catany Gelabert"
+  name   : "Toni Catany"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mi vida y milagros goes here."
   location : "Vienna, Austria"
