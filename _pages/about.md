@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 Antonio Catany Gelabert, Palma de Mallorca 1962.<br/>
-Arquitecto titualdo por la Universitat Politécnica de Catanlunya. Vive en Austria desde 1989.
+Arquitecto titulado por la Universitat Politécnica de Catanlunya. Vive en Austria desde 1989.
 
 Ya no sé de donde soy de tanto decir adiós!<br/>
   Una descripción para mi vida  y milagros.<br/>
