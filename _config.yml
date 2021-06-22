@@ -13,15 +13,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: moixbru_00
 email: toni.catany@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Mi blog personal
-   
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
 search: true
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "en-US"
+title                    : "moixbru_00"
+title_separator          : "-"
+subtitle                 : empezando el 2021 # site tagline that appears below site title in masthead
+name                     : "Antonio Catany Gelabert"
+description: >- # this means to ignore newlines until "baseurl:"
+  Mi blog personal 
+
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+
 
 # Build settings
 markdown: kramdown
@@ -60,19 +72,27 @@ author:
   name   : "Antonio Catany Gelabert"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mi vida y milagros goes here."
+  location : "Vienna, Austria"
+  email    : "moixbru1@gmail.com"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
 
 footer:
   links:
