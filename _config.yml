@@ -20,7 +20,7 @@ search: true
 
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
-title                    : "moixbru_00"
+title                    : "moixbru_MM"
 title_separator          : "-"
 subtitle                 : empezando el 2021 # site tagline that appears below site title in masthead
 name                     : "Antonio Catany Gelabert"
